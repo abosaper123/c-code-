@@ -2,7 +2,7 @@
 using namespace std;
 int main ()
 {
-	int x,a,y;
+	int x,a;
 	cout << " please enter the length \n ";
 	cin >> x;
 	cout << " please enter the width \n ";
@@ -12,3 +12,5 @@ int main ()
 	system ("pause");
 	return 0;
 }
+عاش ي اخويا 
+
